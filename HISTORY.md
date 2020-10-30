@@ -1,6 +1,10 @@
 # Changes
 
-### 2.2.1 (XX YY 2020)
+### 2.2.1 (XX YYY 2020)
+
+ * gendrawpd fixed
+
+### 2.2.1 (16 Jun 2020)
 
  * bugfix release
  * option to to move invpoint and keep results
